@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A6.1</string>
+    <string name="defaultIns">Enter some text and click submit.</string>
+    <string name="btnLabel">Submit</string>
+
+
+</resources>
